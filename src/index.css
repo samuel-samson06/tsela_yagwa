@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.a.active{
+    color: red;
+}
+.backgroundMain{
+    background-color: #049c0e;
+}
+.backgroundHeader{
+    background-color: #08c115;
+}
